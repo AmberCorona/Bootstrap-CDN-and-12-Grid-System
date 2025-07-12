@@ -2,3 +2,7 @@ html {
   height: 100%;
   width: 100%;
 }
+  img {
+    width: 200px;  /* Sets a fixed width */
+    height: 200px; /* Sets a fixed height */
+  }
